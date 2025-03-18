@@ -1,3 +1,6 @@
+// Built a dynamic music player with playlist functionality, allowing users to play, pause, skip, and auto-play songs with real-time UI updates.
+
+
 var arr = [
     { songName: "Co2", url: "Assets/Songs/Prateek Kuhad-Co2.mp3", img: "Assets/Imgs/PrateekKuhad-Co2.webp" },
     { songName: "Art Deco", url: "Assets/Songs/Lana Del Rey-Art Deco.mp3", img: "Assets/Imgs/LanaDelRey-ArtDeco.webp" },

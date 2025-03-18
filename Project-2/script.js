@@ -1,3 +1,6 @@
+// Built an interactive e-commerce product listing with a cart system that allows users to add items and view their cart dynamically.
+
+
 var product = [
     {name: "White Chair", headline: "Soft Cloud Chair", price: "5,000", image: "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},
     {name: "Green Sneaker", headline: "Stylish Footwear", price: "1,500", image: "https://images.unsplash.com/photo-1560343090-f0409e92791a?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},
